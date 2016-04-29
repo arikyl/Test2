@@ -12,6 +12,8 @@ namespace Test2
         
         {
             Console.WriteLine("This is change");
+            Console.WriteLine("hej världen");
+            Console.WriteLine("Another change");
         }
     }
 }
